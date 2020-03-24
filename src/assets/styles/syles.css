@@ -1,0 +1,14 @@
+a, aside, body, button, center, div, fieldset, footer, form, h1, h2, h3, h4, h5, h6, header, html, i, img, input, label, p, select, span, textarea {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font-family: Roboto, sans-serif;
+    font-weight: 400;
+    -webkit-font-smoothing: antialiased !important;
+    vertical-align: initial;
+
+
+
+    outline: none;
+}
